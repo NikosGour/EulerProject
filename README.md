@@ -7,5 +7,5 @@
 ```console
 dotnet build .\ProjectEuler.sln
 
-dotnet run --project .\ProjectEuler\Program.cs
+dotnet run --project .\ProjectEuler\
 ```
