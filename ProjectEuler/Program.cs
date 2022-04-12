@@ -2,7 +2,7 @@
 using ProjectEuler.Problems;
 using ProjectEuler.Utilities;
 using Logger = ProjectEuler.Utilities.Logger;
-using Problem = ProjectEuler.Problems.Problem03;
+using Problem = ProjectEuler.Problems.Problem02;
 using var _ = new Logger();
 
 bool run_suite = false;

@@ -18,7 +18,7 @@ public class Problem02 : IProblem
             int sum = x + y;
             if (sum > 4000000)
             {
-                Log.Debug("Sum is greater than 4.000.000");
+                Log.Debug("Sum of {Sum} is greater than 4.000.000", sum);
                 break;
             }
             Log.Debug("Sum:{Sum}", sum);
